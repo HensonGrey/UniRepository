@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\bin\Debug\net6.0-windows\KursovaPoSAA.exe
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\bin\Debug\net6.0-windows\KursovaPoSAA.deps.json
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\bin\Debug\net6.0-windows\KursovaPoSAA.runtimeconfig.json
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\bin\Debug\net6.0-windows\KursovaPoSAA.dll
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\bin\Debug\net6.0-windows\KursovaPoSAA.pdb
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.Form1.resources
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.AssemblyInfo.cs
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.dll
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\refint\KursovaPoSAA.dll
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.pdb
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\KursovaPoSAA.genruntimeconfig.cache
+C:\Users\Dell\source\repos\KursovaPoSAA\KursovaPoSAA\obj\Debug\net6.0-windows\ref\KursovaPoSAA.dll
